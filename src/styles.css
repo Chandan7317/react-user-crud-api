@@ -1,0 +1,37 @@
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial;
+  background-color: aqua;
+}
+
+input {
+  width: 100%;
+  padding: 6px;
+  margin: 5px 0;
+}
+
+button {
+  margin-right: 5px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.Heading {
+  text-align: center;
+}
+
+.btnEdit {
+  background-color: green;
+  color: aliceblue;
+}
+.btnDelete {
+  background-color: red;
+  color: aliceblue;
+}
+.btnCreate {
+  background-color: green;
+  color: aliceblue;
+  width: 200px;
+}
